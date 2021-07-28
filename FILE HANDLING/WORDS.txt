@@ -1,0 +1,14 @@
+i : 2
+like : 1
+to : 2
+have : 1
+pizza : 1
+with : 1
+friends : 1
+used : 1
+invlove : 1
+in : 2
+creative : 1
+work : 1
+free : 1
+time : 1
